@@ -1,0 +1,18 @@
+body {
+    background-color: #FFFF00;
+  }
+  
+  /* Increase the thickness of the text box border */
+  #inputText {
+    border-width: 5px;
+  }
+
+  #quote {
+    font-weight: bold;
+    color: blue;
+  }
+
+  h2 {
+    font-size: 20px;
+  }
+  
